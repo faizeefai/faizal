@@ -1,0 +1,61 @@
+*
+{
+    margin: 0px;
+}
+.head
+{
+    margin-left: 400px;
+    margin-top: -100px;
+}
+.head > h1 
+{
+    font-size: 30px;
+    color:red; 
+    font-family: Algerian;
+}
+.menu
+{
+        margin-left: 100px;
+}
+.home
+{
+    margin-right: 10px;
+}
+ul
+{
+    margin-top: 50px;
+    list-style-type: none;
+}
+li
+{
+    display: inline;
+    margin-right: 100px;
+}
+.address
+{
+    background-color: aquamarine;
+    margin-left: 100px;
+}
+.footer
+{
+    margin-top: 100px;
+    background-color: bisque;
+    text-align: center;
+}
+.news
+{
+    margin-left: 500px;
+}
+table
+{
+    width: 300px;
+}
+th,td
+{
+    border: solid;
+}
+.gallery > img
+{
+height: 310px;
+width: 310px;
+}
